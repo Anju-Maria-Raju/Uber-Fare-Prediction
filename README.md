@@ -22,14 +22,13 @@ The other file contains all the weather-related information on a given time in a
 
  
 ## RESULT
-1.	Distance along with the categorical variable cab name is found to be the most appropriate variable for prediction with minimum residual error and maximum adjusted R-squared value
-
-2.	Prices don’t surge for higher tier cabs.
-3.	Rain exhibits a negative correlation with respect to price.
+* Distance along with the categorical variable cab name is found to be the most appropriate variable for prediction with minimum residual error and maximum adjusted R-squared value
+* Prices don’t surge for higher tier cabs.
+* Rain exhibits a negative correlation with respect to price.
 
 ## CONCLUSION
-The adjusted R2 value of the predictive model is .9261, with distance, cab name, surge multiplier and rain being the significant predictors.
+* The adjusted R2 value of the predictive model is .9261, with distance, cab name, surge multiplier and rain being the significant predictors.
 
-In future a customer can utilise this application to estimate whether he/she is paying the reasonable fare.
+* In future a customer can utilise this application to estimate whether he/she is paying the reasonable fare.
  
 
